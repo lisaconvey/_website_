@@ -1,0 +1,170 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-family: montserrat;
+	background-color: #FFEEDB;
+}
+
+#city {
+	width: 60%;
+	height: auto;
+}
+
+.head-text {
+	width: 30%;
+	text-align: center;
+	margin: auto;
+}
+
+div {
+	background-color: #FFEEDB;
+	padding: 10px;
+	margin: auto;
+	text-align: center;
+}
+
+h1 {
+	margin: 0px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	padding: 0px;
+	font-family: "dancing script";
+	font-size: 500%;
+	color: #00BFB2;
+}
+
+h2 {
+	font-family: "Josefin Sans";
+	color: #00BFB2;
+}
+
+h3 {
+	font-family: "Josefin Sans";
+	color: #00BFB2;
+}
+
+p {
+	margin: 5px;
+}
+
+hr {
+	width: 20%;
+	border-color: grey;
+	border-style: none;
+	border-top: 5px dotted grey;
+	margin-top: 60px;
+	margin-bottom: 40px;
+
+}
+
+a {
+	color: #0D5C63;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #247B7B;
+}
+
+
+.bottom-container {
+	background-color: #58ccc2;
+	padding: 50px;
+	text-decoration: none;
+	margin-top: 50px;
+	text-align: center;
+}
+
+.copyright {
+	margin-top: 5px;
+	font-size: 10px;
+	background: #58ccc2;
+}
+
+#rights {
+	margin-top: 20px;
+}
+
+.row {
+	width: 50%;
+	text-align: left;
+	line-height: 2;
+}
+
+.img {
+	height: 150px;
+}
+
+
+#subtitle {
+	font-size: 1.5rem;
+	color: #66DFDF;
+}
+
+#cloud1 {
+	position: relative;
+	left: 300px;
+	top: 40px;
+}
+
+#cloud2 {
+	position: relative;
+	right: 300px;
+	top: 40px;
+}
+
+#art {
+	float: left;
+	margin-right: 15px;
+}
+
+#computer {
+	float: right;
+	margin-left: 15px;
+	margin-top: 40px;
+}
+
+.button {
+	background: #247B7B;
+	border: 2px #D81159;
+	border-radius: 5px;
+	padding: 8px;
+	margin: 50px;
+	margin-top: 30px;
+	color: #FFEEDB;
+}
+
+.button:hover {
+	background: #00BFB2;
+	color: #FFEEDB;
+}
+
+.button:focus {
+	outline: none;
+}
+
+#youtube {
+	margin-right: 20px;
+}
+
+#wikipedia {
+	margin-left: 20px;
+}
+
+#paragraph1 {
+	margin-bottom: 50px;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+
+.icancode {
+	position: relative;
+	left: 5px;
+}
+
+#get {
+	color:#0D5C63;
+	margin-bottom: 40px;
+}
+
